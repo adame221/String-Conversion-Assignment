@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  StringConversion.cpp
+c:\users\adama\onedrive\documents\school\spring2018\programming ii\week5\assignments\stringconversion\stringconversion\stringconversion.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\adama\onedrive\documents\school\spring2018\programming ii\week5\assignments\stringconversion\stringconversion\stringconversion.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\adama\onedrive\documents\school\spring2018\programming ii\week5\assignments\stringconversion\stringconversion\stringconversion.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  StringConversion.vcxproj -> C:\Users\adama\OneDrive\Documents\School\Spring2018\Programming II\Week5\Assignments\StringConversion\Debug\StringConversion.exe
